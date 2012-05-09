@@ -13,6 +13,7 @@ expB = ["coding", "programming", "Java"]
 var bestDesigner = expA = expA.length;
 var pickCompany = function (whatCompany) {
        var hireCompany = hireCompanies [whatCompany],
+       // go back to these
 //if companyA < companyB then the game will be developed sooner.
    // If timeA < timeB
 //if companB > companyA then the game will be developed later.
